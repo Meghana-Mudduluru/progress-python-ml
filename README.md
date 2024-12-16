@@ -7,4 +7,4 @@ Welcome to my Python and Machine Learning journey! This repository serves as a l
 👩‍💻 Code examples with python
 🛠️ Practice exercises 
 📈 Important learning milestones
-💡 Trying out new tools and technologies expand this 
+💡 Trying out new tools and technologies expand this
